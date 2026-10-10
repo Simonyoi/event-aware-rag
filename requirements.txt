@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-openai
+langgraph
+langchain-community
+openai
+chromadb
+pydantic>=2
+python-dotenv
+pypdf
+pandas
+openpyxl
+pillow
+dashscope
+matplotlib
